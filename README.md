@@ -1,5 +1,6 @@
 ## Goal
-Create a basic website using HTML. Focus on using correct HTML tags and structure.
+- Create a basic website using HTML. Focus on using correct HTML tags and structure.
+- The project follows the https://roadmap.sh/projects/basic-html-website guidelines.
 
 ## Requirements
 - Pages: Home, Projects, Articles, Contact
